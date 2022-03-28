@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vlada-altavista.github.io/rsschool-cv/cv

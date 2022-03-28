@@ -21,7 +21,7 @@ I am currently working in a bank as a senior compliance specialist. Recently I d
 ### Courses
 * "HTML for beginners" on [ru.code-basics](https://ru.code-basics.com/ "ru.code-basics.com")
 * "CSS for beginners" on [ru.code-basics](https://ru.code-basics.com/ "ru.code-basics.com")
-* RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)
+* RS School Course "JavaScript/Front-end. Stage 1" (in progress)
 ---
 ### Languages
 * Russian - native

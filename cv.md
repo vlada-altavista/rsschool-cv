@@ -1,5 +1,5 @@
 # Vladislava Sidorkina
----
+
 ## Senior Compliance specialist
 ---
 ### Contact information
@@ -7,3 +7,10 @@
 * **E-mail:** vlada.altavista@gmail.com
 * **Github:** [vlada-altavista](https://github.com/vlada-altavista "Github vlada-altavista")
 ---
+###About Me###
+I am currently working in a bank as a senior compliance specialist. Recently I decided to change my profession and I became very excited about Frontend development. My goal is to learn everything about this profession and become a high-level specialist in this sphere. 
+###Skills###
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
